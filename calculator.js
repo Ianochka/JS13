@@ -1,25 +1,25 @@
-function showMessage1() {
+function sum() {
     let a = prompt(`First number:`);
     let b = prompt(`Second number:`);
     let c = result = Number(a) + Number(b);
     alert(`Result: ${result}`);
 }
 
-function showMessage2() {
+function subtraction() {
     let a = prompt(`First number:`);
     let b = prompt(`Second number:`);
     let c = result = Number(a) - Number(b);
     alert(`Result: ${result}`);
 }
 
-function showMessage3() {
+function division() {
     let a = prompt(`First number:`);
     let b = prompt(`Second number:`);
     let c = result = Number(a) / Number(b);
     alert(`Result: ${result}`);
 }
 
-function showMessage4() {
+function multiplication() {
     let a = prompt(`First number:`);
     let b = prompt(`Second number:`);
     let c = result = Number(a) * Number(b);
